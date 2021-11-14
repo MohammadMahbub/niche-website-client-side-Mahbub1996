@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDNHOabHRxowiJoXuCledaorXwEovVbHD8",
-    authDomain: "travel-agency-8e55c.firebaseapp.com",
-    projectId: "travel-agency-8e55c",
-    storageBucket: "travel-agency-8e55c.appspot.com",
-    messagingSenderId: "546227687868",
-    appId: "1:546227687868:web:05e653d556a6926d5ddbb9"
-};
+    apiKey: "AIzaSyDH2L6EiNRG-I1KClEkTRcBGULM_UAisQc",
+    authDomain: "grand-motor.firebaseapp.com",
+    projectId: "grand-motor",
+    storageBucket: "grand-motor.appspot.com",
+    messagingSenderId: "1062416719277",
+    appId: "1:1062416719277:web:5c5eacdca73149ae63d524"
+  };
 
 export default firebaseConfig;
